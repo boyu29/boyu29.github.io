@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Boyu CHEN
+
+I am a second year master student in ECE department at [University of California, San Diego](https://www.ece.ucsd.edu/).
 
 You can use the [editor on GitHub](https://github.com/boyu29/boyu29.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
