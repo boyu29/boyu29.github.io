@@ -2,7 +2,7 @@
 
 I am a second year master student in ECE department at [University of California, San Diego](https://www.ece.ucsd.edu/) and my academic track now is intelligent systems & robotic controls. Before this I obtained my bachlor degree of engineering in electrical engineering from [Zhejiang University](http://www.zju.edu.cn).
 
-I have experiences in full-stack development, machine learning, natual language processing. I am now actively seeking full-time jobs in software development.
+I have experiences in full-stack development, machine learning, natual language processing. I am now actively seeking full-time jobs in software development. For more information, may you refer to my [resume](/CV_BoyuChen.pdf).
 
 You can use the [editor on GitHub](https://github.com/boyu29/boyu29.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
