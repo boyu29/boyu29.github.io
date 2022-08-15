@@ -1,7 +1,7 @@
 <!-- ## <center>Boyu CHEN</center> -->
-
-<img src="./selfie.png" alt="drawing" width="250" div align=center />
-
+<div style="text-align: center">
+<img src="./selfie.png" alt="drawing" width="300" />
+</div>
 I am a second year master student in ECE department at [University of California, San Diego](https://www.ece.ucsd.edu/) and my academic track now is intelligent systems & robotic controls. Before this I obtained my bachlor degree of engineering in electrical engineering from [Zhejiang University](http://www.zju.edu.cn).
 
 I have experiences in full-stack development, machine learning, natual language processing. I am now actively seeking full-time jobs in software development. For more information, may you refer to my [resume](/CV_BoyuChen.pdf).
