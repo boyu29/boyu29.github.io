@@ -38,6 +38,18 @@ speed; collected data gravity core as feedback for real-time image motion tracki
 - Developed sign-in API(account & password creation) with Passport.js and Node.js
 - Invoked Google Maps API to provide location guiding; achieved user data saving module
 
+#### [HIV-TRACE Graph Representation in C++](https://github.com/boyu29/HIV-TRACE-Graph-Representation) (May 2022)
+
+- Read in HIV viral sequences via **ifstream**(max: 10,000 edges), modeled it abstractly as undirected graph
+- Given two nodes, applied **Dijkstra’s Algorithm** to find the shortest path and connecting threshold
+
+#### [SurfStore Cloud Storage Service based on Dropbox](https://github.com/boyu29/SurfStoreCloudStorageSystem)
+
+- Deployed data block and metadata file(map) interfaces for server and **gRPC** client when dialing
+- Downloaded new file to client if modified in the cloud; updated server file if it’s modified/created locally
+- Handled conflicts following ”**whoever syncs first wins**”; deleted files if marked with ”tombstone”
+
+
 <!-- 
 You can use the [editor on GitHub](https://github.com/boyu29/boyu29.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
