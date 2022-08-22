@@ -68,6 +68,12 @@ speed; collected data gravity core as feedback for real-time image motion tracki
 - Invoked the net package to built **TCP** connection; processed pipelined requests; closed when required
 - Handled requests; generated statuscode and response headers; achieved reliable data transmission
 
+#### [Background Separation with EM Algorithm](https://github.com/xoxoboyu/CheetahEMClassifier) (Nov. 2021 - Dec. 2021)
+
+- Under each class, computed posterior probability of each point with weight given estimated params
+- Derived params by solving maximum likelihood for each mix-model from different initialization
+- Using models derived from EM, seperated backgrounds under mix-model Bayesian Decision Rule
+
 #### Load Data Integration and Profiling Based on Time-series Database (Oct. 2019 – May 2020)
 
 - Animated the entire process of sending, loading and visualizing data from a power system under **TICK** framework
