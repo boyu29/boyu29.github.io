@@ -43,19 +43,19 @@ speed; collected data gravity core as feedback for real-time image motion tracki
 - Read in HIV viral sequences via **ifstream**(max: 10,000 edges), modeled it abstractly as undirected graph
 - Given two nodes, applied **Dijkstra’s Algorithm** to find the shortest path and connecting threshold
 
-#### [SurfStore Cloud Storage Service based on Dropbox](https://github.com/boyu29/SurfStoreCloudStorageSystem)
+#### [SurfStore Cloud Storage Service based on Dropbox](https://github.com/boyu29/SurfStoreCloudStorageSystem) (Mar. 2022)
 
 - Deployed data block and metadata file(map) interfaces for server and **gRPC** client when dialing
 - Downloaded new file to client if modified in the cloud; updated server file if it’s modified/created locally
 - Handled conflicts following ”**whoever syncs first wins**”; deleted files if marked with ”tombstone”
 
-#### [A Preference-based Analysis of US Cities’ Livability](https://github.com/boyu29/BestCityToLiveIn)
+#### [A Preference-based Analysis of US Cities’ Livability](https://github.com/boyu29/BestCityToLiveIn) (Mar. 2022)
 
 - Normalized scores(30,000 cities, 16 columns); depicted heatmap for correlation coefficients via seaborn
 - Performed K-means clustering; divided traits to 4 groups based on correlation and subjectivity
 - Assigned weights for groups; calculated scores and visualized the best cities on map by folium
 
-#### [TritonHTTP(HTTP/1.1) Network Protocol Implementation in Golang](https://github.com/boyu29/TritonHTTP)
+#### [TritonHTTP(HTTP/1.1) Network Protocol Implementation in Golang](https://github.com/boyu29/TritonHTTP) (Jan. 2022 - Feb. 2022)
 
 - Formalized and validated requests; read files and wrote response with bufio
 - Invoked the net package to built TCP connection; processed pipelined requests; closed when required
