@@ -10,15 +10,25 @@ I have experiences in full-stack development, machine learning, natual language 
 </div>
 
 
-### Professional Experience
+### PROFESSIONAL EXPERIENCE
 
 #### iFLYTEK Co., Ltd.
+
 Software & Machine Learning Intern, Hangzhou, Zhejiang, China, Jul. 2020 - Dec. 2020
 
 - Realized automatic composition function integrating separate paragraph outputs using a voice conversion engine into entireties conforming to natural languages’ semantics via python-flask
 - Applied semantic analysis using Logistic Regression to network state recognition(90% accuracy)
 - Calculated similarity matrix of text, achieved text abstraction using TextRank(graphic structured)
 
+### RESEARCH EXPERIENCE
+
+#### Purdue University
+
+Research Assistant, Advisor: Meng Cui, West Lafayette, IN, US, Jul. 2019 - Sep. 2019
+
+- **Deep Fog Imaging:** Built a spatiotemporally-gated detection system to filter out deep fog(scattering back- ground and shot noise); yielded high resolution and contrast image; published the results on Optics Express
+- **Real-time Image Stabilization:** Generated triangle signals in vertical directions to control laser scanning
+speed; collected data gravity core as feedback for real-time image motion tracking and correction(200Hz)
 <!-- You can use the [editor on GitHub](https://github.com/boyu29/boyu29.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
