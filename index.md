@@ -34,8 +34,8 @@ speed; collected data gravity core as feedback for real-time image motion tracki
 
 #### YelpCamp Interactive Web Development (Jul. 2022 - Aug. 2022)
 
-- Deployed webpage with Bootstrap, used Express and MongoDB for realizing RESTful API
-- Developed sign-in API(account & password creation) with Passport.js and Node.js
+- Deployed webpage with **Bootstrap**, used **Express** and **MongoDB** for realizing **RESTful API**
+- Developed sign-in API(account & password creation) with **Passport.js** and **Node.js**
 - Invoked Google Maps API to provide location guiding; achieved user data saving module
 
 #### [HIV-TRACE Graph Representation in C++](https://github.com/boyu29/HIV-TRACE-Graph-Representation) (May 2022)
@@ -49,6 +49,17 @@ speed; collected data gravity core as feedback for real-time image motion tracki
 - Downloaded new file to client if modified in the cloud; updated server file if it’s modified/created locally
 - Handled conflicts following ”**whoever syncs first wins**”; deleted files if marked with ”tombstone”
 
+#### [A Preference-based Analysis of US Cities’ Livability](https://github.com/boyu29/BestCityToLiveIn)
+
+- Normalized scores(30,000 cities, 16 columns); depicted heatmap for correlation coefficients via seaborn
+- Performed K-means clustering; divided traits to 4 groups based on correlation and subjectivity
+- Assigned weights for groups; calculated scores and visualized the best cities on map by folium
+
+#### [TritonHTTP(HTTP/1.1) Network Protocol Implementation in Golang](https://github.com/boyu29/TritonHTTP)
+
+- Formalized and validated requests; read files and wrote response with bufio
+- Invoked the net package to built TCP connection; processed pipelined requests; closed when required
+- Handled requests; generated statuscode and response headers; achieved reliable data transmission
 
 <!-- 
 You can use the [editor on GitHub](https://github.com/boyu29/boyu29.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
