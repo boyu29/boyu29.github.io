@@ -33,12 +33,13 @@ speed; collected data gravity core as feedback for real-time image motion tracki
 ### SELECTED PROJECTS
 
 #### YelpCamp Interactive Web Development (Jul. 2022 - Aug. 2022)
+
 - Deployed webpage with Bootstrap, used Express and MongoDB for realizing RESTful API
 - Developed sign-in API(account & password creation) with Passport.js and Node.js
 - Invoked Google Maps API to provide location guiding; achieved user data saving module
 
-
-<!-- You can use the [editor on GitHub](https://github.com/boyu29/boyu29.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- 
+You can use the [editor on GitHub](https://github.com/boyu29/boyu29.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
