@@ -12,7 +12,8 @@ I have experiences in full-stack development, machine learning, natual language 
 
 ### Professional Experience
 
-#### \leftline{iFLYTEK Co., Ltd. ｜ Software & Machine Learning Intern} \rightline{Hangzhou, Zhejiang, China}
+#### iFLYTEK Co., Ltd. ｜ Software & Machine Learning Intern
+##### Hangzhou, Zhejiang, China, Jul. 2020 - Dec. 2020
 
 <!-- You can use the [editor on GitHub](https://github.com/boyu29/boyu29.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
