@@ -51,14 +51,14 @@ speed; collected data gravity core as feedback for real-time image motion tracki
 
 #### [A Preference-based Analysis of US Cities’ Livability](https://github.com/boyu29/BestCityToLiveIn) (Mar. 2022)
 
-- Normalized scores(30,000 cities, 16 columns); depicted heatmap for correlation coefficients via seaborn
-- Performed K-means clustering; divided traits to 4 groups based on correlation and subjectivity
-- Assigned weights for groups; calculated scores and visualized the best cities on map by folium
+- Normalized scores(30,000 cities, 16 columns); depicted heatmap for correlation coefficients via **seaborn**
+- Performed **K-means** clustering; divided traits to 4 groups based on correlation and subjectivity
+- Assigned weights for groups; calculated scores and visualized the best cities on map by **folium**
 
 #### [TritonHTTP(HTTP/1.1) Network Protocol Implementation in Golang](https://github.com/boyu29/TritonHTTP) (Jan. 2022 - Feb. 2022)
 
-- Formalized and validated requests; read files and wrote response with bufio
-- Invoked the net package to built TCP connection; processed pipelined requests; closed when required
+- Formalized and validated requests; read files and wrote response with **bufio**
+- Invoked the net package to built **TCP** connection; processed pipelined requests; closed when required
 - Handled requests; generated statuscode and response headers; achieved reliable data transmission
 
 ### LEADERSHIP ACTIVITIES
