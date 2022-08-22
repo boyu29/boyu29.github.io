@@ -12,8 +12,8 @@ I have experiences in full-stack development, machine learning, natual language 
 
 ### Professional Experience
 
-#### iFLYTEK Co., Ltd. ｜ Software & Machine Learning Intern
-##### Hangzhou, Zhejiang, China, Jul. 2020 - Dec. 2020
+#### - iFLYTEK Co., Ltd.
+Software & Machine Learning Intern, Hangzhou, Zhejiang, China, Jul. 2020 - Dec. 2020
 
 - Realized automatic composition function integrating separate paragraph outputs using a voice conversion engine into entireties conforming to natural languages’ semantics via python-flask
 - Applied semantic analysis using Logistic Regression to network state recognition(90% accuracy)
