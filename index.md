@@ -61,6 +61,13 @@ speed; collected data gravity core as feedback for real-time image motion tracki
 - Invoked the net package to built TCP connection; processed pipelined requests; closed when required
 - Handled requests; generated statuscode and response headers; achieved reliable data transmission
 
+### LEADERSHIP ACTIVITIES
+***
+
+#### Head of  Media Department | EE New Media Team
+
+Led the official social media studio of College of Electrical Engineering; increased the number of followers from 6,000+ to 10,000+
+
 
 ### HONORS AND AWARDS
 ***
