@@ -61,6 +61,19 @@ speed; collected data gravity core as feedback for real-time image motion tracki
 - Invoked the net package to built TCP connection; processed pipelined requests; closed when required
 - Handled requests; generated statuscode and response headers; achieved reliable data transmission
 
+
+### HONORS AND AWARDS
+***
+
+- Honorary Title of Excellent Graduation Project _(2020)_
+- Inventronics College-set Scholarship _(2019)_
+- Excellent Social Work Scholarship _(Twice, 2017 & 2019)_
+- Outstanding Student Leader Awards _(2017)_
+- Scholarship for Outstanding Merits _(2017)_
+- Scholarship for Outstanding Students _(2017)_
+- Outstanding Youth League Leader _(2017)_
+
+
 <!-- 
 You can use the [editor on GitHub](https://github.com/boyu29/boyu29.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
