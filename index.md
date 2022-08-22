@@ -8,7 +8,7 @@ I have experiences in full-stack development, machine learning, natual language 
 
 ### PROFESSIONAL EXPERIENCE
 
-#### iFLYTEK Co., Ltd.
+#### [iFLYTEK Co., Ltd.](http://www.iflytek.com/en/)
 
 Software & Machine Learning Intern, Hangzhou, Zhejiang, China, Jul. 2020 - Dec. 2020
 
@@ -20,7 +20,7 @@ Software & Machine Learning Intern, Hangzhou, Zhejiang, China, Jul. 2020 - Dec. 
 
 #### Purdue University
 
-Research Assistant, Advisor: Meng Cui, West Lafayette, IN, US, Jul. 2019 - Sep. 2019
+Research Assistant, Advisor: [Meng Cui](https://mengcuilab.github.io), West Lafayette, IN, US, Jul. 2019 - Sep. 2019
 
 - **Deep Fog Imaging:** Built a spatiotemporally-gated detection system to filter out deep fog(scattering back- ground and shot noise); yielded high resolution and contrast image; published the results on Optics Express
 - **Real-time Image Stabilization:** Generated triangle signals in vertical directions to control laser scanning
