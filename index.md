@@ -68,6 +68,18 @@ speed; collected data gravity core as feedback for real-time image motion tracki
 - Invoked the net package to built **TCP** connection; processed pipelined requests; closed when required
 - Handled requests; generated statuscode and response headers; achieved reliable data transmission
 
+#### Load Data Integration and Profiling Based on Time-series Database (Oct. 2019 – May 2020)
+
+- Animated the entire process of sending, loading and visualizing data from a power system under **TICK** framework
+- Adopted various numerical methods via **Pandas** and **Numpy** to apply data resampling and interactive **visualizations**
+- Reapplied data clustering via **K-means** algorithm to conduct user portrait research; achieved load prediction with **LSTM**
+
+#### Cleaning Robot Based on Automatic Control (Mar. 2018 – May 2019)
+
+- Developed a cleaning robot with **Arduino** board in C++ to eliminate the need to manually clean glass in high-risk areas 
+- Invoked Event Manager and selected Active High Mode to generate **PWM** waves to regulate the motor speed
+- Used an ultrasonic sensor to guide the robot and attached rubber tracks to realize on-slope operations
+
 ### LEADERSHIP ACTIVITIES
 ***
 
