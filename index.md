@@ -25,8 +25,6 @@ Software & Machine Learning Intern, Hangzhou, Zhejiang, China, Jul. 2020 - Dec. 
 
 Research Assistant, Advisor: [Meng Cui](https://mengcuilab.github.io), West Lafayette, IN, US, Jul. 2019 - Sep. 2019
 
-<p style="text-align:left;">一部分文字<span style="float:right;">另一部分文字</span></p>
-
 - **Deep Fog Imaging:** Built a spatiotemporally-gated detection system to filter out deep fog(scattering back- ground and shot noise); yielded high resolution and contrast image; published the results on Optics Express
 - **Real-time Image Stabilization:** Generated triangle signals in vertical directions to control laser scanning
 speed; collected data gravity core as feedback for real-time image motion tracking and correction(200Hz)
@@ -66,10 +64,17 @@ speed; collected data gravity core as feedback for real-time image motion tracki
 ### LEADERSHIP ACTIVITIES
 ***
 
-#### Head of  Media Department | EE New Media Team (Oct. 2018 – Sep. 2019)
+#### Head of  Media Department, EE New Media Team (Oct. 2018 – Sep. 2019)
 
 - Led the official social media studio of College of Electrical Engineering; increased the number of followers from 6,000+ to 10,000+
 
+#### Session Assistant, 2019 National Doctoral Forum of Electrical Engineering (Jun. 2019)
+
+- Assisted the High Voltage Engineering Parallel Sessions in providing guidance and writing press releases
+
+#### Member, Pioneering and Study Instructing Center of ZJU (Sep. 2017 – Jun. 2018)
+
+- Joined the largest and official part-time job platform in Zhejiang University. Responsible for collecting and posting information about part-time jobs on & off campus. Organized various activities including Flea Market
 
 ### HONORS AND AWARDS
 ***
