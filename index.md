@@ -10,7 +10,7 @@ I have experiences in full-stack development, machine learning, natual language 
 ### TECHNICAL SKILLS
 ***
 
-- **Programming Language:** Golang, Java, C/C++, Python, HTML/CSS, JavaScript, SQL, Matlab
+- **Programming Languages:** Golang, Java, C/C++, Python, HTML/CSS, JavaScript, SQL, Matlab
 - **Framework Toolkit:** Docker, Bootstrap, Spring Boot, React, Vue, Node.js, Git, Ajax, Flask, Express, RESTful,
 socket, MongoDB, Django
 
@@ -21,9 +21,9 @@ socket, MongoDB, Django
 
 Software & Machine Learning Intern, Hangzhou, Zhejiang, China, Jul. 2020 - Dec. 2020
 
-- Realized automatic composition function integrating separate paragraph outputs using a voice conversion engine into entireties conforming to natural languages’ semantics via **python-flask**
-- Utilized **Bags of Words** embedded method to vectorize text data; applied semantic analysis using **Logistic Regression** to network state recognition(**90%** accuracy)
-- Calculated similarity matrix of text, achieved text abstraction using **TextRank**(graphic structured)
+- Collected individual words from voice conversion engine; performed data cleaning; reorganized them into complete sentences according to natural language semantics; deployed the project via **python-flask**
+- Utilized **Bags of Words** embedded method to vectorize text data; Analyzed conversation contents; utilized **Logistic Regression** to identify unstable network(**90%** accuracy)
+- Implemented **TextRank** algorithm by calculating cosine similarity; extracted top 2 sentences as article summary
 
 ### RESEARCH EXPERIENCE
 ***
@@ -43,18 +43,18 @@ speed; collected data gravity core as feedback for real-time image motion tracki
 
 - Deployed webpage with **Bootstrap**, used **Express** and **MongoDB** for realizing **RESTful API**
 - Developed sign-in API(account & password creation) with **Passport.js** and **Node.js**
-- Invoked Google Maps API to provide location guiding; achieved user data saving module
+- Invoked Google Maps API to provide location guiding; implemennted user data saving module
 
 #### [HIV-TRACE Graph Representation in C++](https://github.com/boyu29/HIV-TRACE-Graph-Representation) (May 2022)
 
-- Read in HIV viral sequences via **ifstream**(max: 10,000 edges), modeled it abstractly as undirected graph
-- Given two nodes, applied **Dijkstra’s Algorithm** to find the shortest path and connecting threshold
+- Pre-processed HIV sequence data via **ifstream**(max: 10,000 edges), modeled it abstractly as undirected graph
+- Implemented **Dijkstra’s Algorithm** to find the shortest path and connecting threshold given two patients
 
 #### [SurfStore Cloud Storage Service based on Dropbox](https://github.com/boyu29/SurfStoreCloudStorageSystem) (Mar. 2022)
 
-- Deployed data block and metadata file(map) interfaces for server and **gRPC** client when dialing
-- Downloaded new file to client if modified in the cloud; updated server file if it’s modified/created locally
-- Handled conflicts following ”**whoever syncs first wins**”; deleted files if marked with ”tombstone”
+- Initiated interfaces for file saving and indexing in server and **gRPC** clients, allowing multiple **concurrency**
+- Synchronized files with newer version from cloud to local client; updated new/modified local files to server
+- Handled conflicts following ”**whoever syncs first wins**”; deleted files with hash value of 0(”tombstone”)
 
 #### [A Preference-based Analysis of US Cities’ Livability](https://github.com/boyu29/BestCityToLiveIn) (Mar. 2022)
 
@@ -64,9 +64,9 @@ speed; collected data gravity core as feedback for real-time image motion tracki
 
 #### [TritonHTTP(HTTP/1.1) Network Protocol Implementation in Golang](https://github.com/boyu29/TritonHTTP) (Jan. 2022 - Feb. 2022)
 
-- Formalized and validated requests; read files and wrote response with **bufio**
-- Invoked the net package to built **TCP** connection; processed pipelined requests; closed when required
-- Handled requests; generated statuscode and response headers; achieved reliable data transmission
+- Formalized and validated requests; acquired file contents and wrote response with **bufio**
+- Invoked the **net** package to built **TCP** connection; processed pipelined requests; closed dialing when required
+- Handled requests; generated statuscode and response headers accordingly; achieved reliable data transmission
 
 #### [Background Separation with EM Algorithm](https://github.com/xoxoboyu/CheetahEMClassifier) (Nov. 2021 - Dec. 2021)
 
