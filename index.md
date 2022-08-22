@@ -2,11 +2,13 @@
 
 ### ABOUT
 ***
+
 My name is Boyu(博宇) Chen(陈). I am a second year master student in ECE department at [University of California, San Diego](https://www.ece.ucsd.edu/) and my academic track now is intelligent systems & robotics control. Before this I obtained my bachelor degree of engineering in electrical engineering from [Zhejiang University](http://www.zju.edu.cn).
 
 I have experiences in full-stack development, machine learning, natual language processing. I am now actively seeking full-time jobs in software development. For more information, may you refer to my [resume](/Boyu_Chen_CV.pdf).
 
 ### PROFESSIONAL EXPERIENCE
+***
 
 #### [iFLYTEK Co., Ltd.](http://www.iflytek.com/en/)
 
@@ -17,6 +19,7 @@ Software & Machine Learning Intern, Hangzhou, Zhejiang, China, Jul. 2020 - Dec. 
 - Calculated similarity matrix of text, achieved text abstraction using TextRank(graphic structured)
 
 ### RESEARCH EXPERIENCE
+***
 
 #### Purdue University
 
@@ -27,6 +30,7 @@ Research Assistant, Advisor: [Meng Cui](https://mengcuilab.github.io), West Lafa
 speed; collected data gravity core as feedback for real-time image motion tracking and correction(200Hz)
 
 ### SELECTED PROJECTS
+***
 
 #### YelpCamp Interactive Web Development (Jul. 2022 - Aug. 2022)
 
