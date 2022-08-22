@@ -14,9 +14,9 @@ I have experiences in full-stack development, machine learning, natual language 
 
 Software & Machine Learning Intern, Hangzhou, Zhejiang, China, Jul. 2020 - Dec. 2020
 
-- Realized automatic composition function integrating separate paragraph outputs using a voice conversion engine into entireties conforming to natural languages’ semantics via python-flask
-- Utilized Bags of Words embedded method to vectorize text data; applied semantic analysis using Logistic Regression to network state recognition(90% accuracy)
-- Calculated similarity matrix of text, achieved text abstraction using TextRank(graphic structured)
+- Realized automatic composition function integrating separate paragraph outputs using a voice conversion engine into entireties conforming to natural languages’ semantics via **python-flask**
+- Utilized **Bags of Words** embedded method to vectorize text data; applied semantic analysis using **Logistic Regression** to network state recognition(**90%** accuracy)
+- Calculated similarity matrix of text, achieved text abstraction using **TextRank**(graphic structured)
 
 ### RESEARCH EXPERIENCE
 ***
