@@ -7,6 +7,13 @@ My name is Boyu(博宇) Chen(陈). I am a second year master student in ECE depa
 
 I have experiences in full-stack development, machine learning, natual language processing. I am now actively **seeking full-time jobs in software development**. For more information, may you refer to my [resume](/Boyu_Chen_CV.pdf).
 
+### TECHNICAL SKILLS
+***
+
+- **Programming Language: **Golang, Java, C/C++, Python, HTML/CSS, JavaScript, SQL, Matlab
+- **Framework Toolkit:** Docker, Bootstrap, Spring Boot, React, Vue, Node.js, Git, Ajax, Flask, Express, RESTful,
+socket, MongoDB, Django
+
 ### PROFESSIONAL EXPERIENCE
 ***
 
