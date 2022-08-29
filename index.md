@@ -3,7 +3,7 @@
 ### ABOUT
 ***
 
-My name is Boyu(博宇) Chen(陈). I am a second year master student in ECE department at [University of California, San Diego](https://www.ece.ucsd.edu/) and my academic track now is intelligent systems & robotics control. Before this I obtained my bachelor degree of engineering in electrical engineering from [Zhejiang University](http://www.zju.edu.cn).
+My name is Boyu(博宇) Chen(陈). I am a second year master student in ECE department at [University of California, San Diego](https://www.ece.ucsd.edu/) and my academic track now is intelligent systems & robotics control. Before this I obtained my bachelor degree of engineering in electrical engineering from [Zhejiang University](https://www.zju.edu.cn/english/).
 
 I have experiences in full-stack development, machine learning, natual language processing. I am now actively **seeking full-time jobs in software development**. For more information, may you refer to my [resume](/Boyu_Chen_CV.pdf) here.
 
