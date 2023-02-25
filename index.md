@@ -17,6 +17,16 @@ socket, MongoDB, Django
 ### PROFESSIONAL EXPERIENCE
 ***
 
+#### [Neudesic LLC, an IBM Company](https://www.neudesic.com/)
+
+Consultant Intern, Digital Innovation Group, Phoenix, AZ, U.S., Jan. 2023 - Mar. 2023
+
+- Performed outlier detection using **Mahalanobis Distanc** with $\chi^2_{0.975}$ to identify/extract poor reliability devices
+- Modeled power grid as **network graph**(meters as nodes); generated pairwise distance matrix between each node; optimized the computation using **Spark SQL** and numpy broadcast from **10 hours** to **seconds**
+- Performed **DBSCAN** on distance matrix to find **hotspot clusters**; visualized them on interactive map
+- Expected to accelerate problem identification by **50%** and increase power reliability by **30%**
+
+
 #### [iFLYTEK Co., Ltd.](http://www.iflytek.com/en/)
 
 Software & Machine Learning Intern, Hangzhou, Zhejiang, China, Jul. 2020 - Dec. 2020
